@@ -1,7 +1,7 @@
 #!/bin/bash
 
 repo="chrisb/dotfiles"
-target="~/Projects/$repo"
+target="$HOME/Projects/$repo"
 
 git clone "git@github.com:$repo.git" "$target"
 
