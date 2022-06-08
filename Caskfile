@@ -1,0 +1,18 @@
+
+cask install iterm2
+cask install spotify
+cask install paw
+cask install visual-studio-code
+cask install vlc
+cask install istat-menus
+cask install chromedriver
+cask install keybase
+cask install bartender
+cask install docker
+cask install 1password-beta
+cask install google-chrome
+cask install font-source-sans-pro
+cask install the-unarchiver
+cask install grammarly-desktop
+cask install kindle
+cask install gpg-suite-no-mail
