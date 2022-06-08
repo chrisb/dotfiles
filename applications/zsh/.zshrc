@@ -2,7 +2,7 @@ export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl)"
 
 eval "$(rbenv init - zsh)"
 
-source /opt/homebrew/share/antigen/antigen.zsh
+source "$(brew --prefix)/share/antigen/antigen.zsh"
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
