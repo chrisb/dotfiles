@@ -6,3 +6,4 @@
 ./script/git.sh
 ./script/fonts.sh
 ./script/ruby.rb
+./script/applications.sh
