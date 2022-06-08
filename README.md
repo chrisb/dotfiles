@@ -7,5 +7,6 @@
 Run it:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/chrisb/dotfiles/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/chrisb/dotfiles/main/install.sh)"
 ```
+
